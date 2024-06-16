@@ -1,15 +1,14 @@
 export const Bio = {
     name: "Hardi Virani",
-    // image: "https://alpha-stark.github.io/images/MannSavani.jpg",
+    // image: "https://github.io/images/HardiVirani.jpg",
     roles: ["Full Stack Developer.", "Programmer.", "Competitive Coder"],
     description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/hardi-virani",
     resume: "  ",
-    // resume: "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/hardi-virani/",
-    // twitter: "https://twitter.com/MANNSAVANI2",
-    // insta: "https://www.instagram.com/mann_savani/",
-    // facebook: "https://www.facebook.com/rishav.chanda.165/",
+    // twitter: "",
+    // insta: "",
+    // facebook: "",
 };
 
 export const skills = [
@@ -266,15 +265,15 @@ export const projects = [
         member: [
             {
                 name: "Hardi Virani",
-                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
-                linkedin: "https://www.linkedin.com/in/mann-savani/",
-                github: "https://github.com/Alpha-Stark",
-            },
-            {
-                name: "Hardi Virani",
                 img: "https://alpha-stark.github.io/images/Hardi1a.jpg",
                 linkedin: "https://www.linkedin.com/in/hardi-virani/",
                 github: "https://github.com/hardi-virani",
+            },
+            {
+                name: "Mann Savani",
+                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
+                linkedin: "https://www.linkedin.com/in/mann-savani/",
+                github: "https://github.com/Alpha-Stark",
             },
         ],
     },
@@ -292,15 +291,15 @@ export const projects = [
         member: [
             {
                 name: "Hardi Virani",
-                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
-                linkedin: "https://www.linkedin.com/in/mann-savani/",
-                github: "https://github.com/Alpha-Stark",
-            },
-            {
-                name: "Hardi Virani",
                 img: "https://alpha-stark.github.io/images/Hardi1a.jpg",
                 linkedin: "https://www.linkedin.com/in/hardi-virani/",
                 github: "https://github.com/hardi-virani",
+            },
+            {
+                name: "Mann Savani",
+                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
+                linkedin: "https://www.linkedin.com/in/mann-savani/",
+                github: "https://github.com/Alpha-Stark",
             },
         ],
     },
