@@ -8,7 +8,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/hardi-virani/",
     // twitter: "",
     // insta: "",
-    // facebook: "",
+    // facebook: " ",
 };
 
 export const skills = [
