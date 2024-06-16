@@ -13,7 +13,6 @@ const Container = styled.div`
     @media (max-width: 960px) {
         padding: 0px;
     }
-    padding-top: 80px;
 `;
 
 const Wrapper = styled.div`
@@ -133,12 +132,13 @@ class Contact extends Component {
     async handleSubmit(e) {
         e.preventDefault();
         try {
-            await emailjs.sendForm("service_6mkht56", "template_8bhwtio", this.formRef.current, "MmnsbZLgBlyaBHA0f");
+            await emailjs.sendForm("service_r08kc64", "template_4lviqjp", this.formRef.current, "9i4t7F_ruyEsrhWZU");
             this.setState({ openSnackbar: true });
             this.formRef.current.reset();
             window.alert("Email sent successfully!");
         } catch (error) {
             console.error("Error sending email:", error);
+            window.alert("Email not sent, try another way!");
         }
     }
 
