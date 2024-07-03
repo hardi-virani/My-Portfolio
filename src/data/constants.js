@@ -260,7 +260,7 @@ export const projects = [
         image: "https://alpha-stark.github.io/images/Evently.png",
         tags: ["Next Js", "React Js", "MongoDb", "Node Js", "Express Js", "Stripe", "Tailwind CSS"],
         category: "web app",
-        github: "https://github.com/Alpha-Stark/Evently",
+        github: "https://github.com/hardi-virani/Evently",
         webapp: "https://alpha-evently.vercel.app/",
         member: [
             {
@@ -286,7 +286,7 @@ export const projects = [
         // image: "https://image.architonic.com/pro1-3/20182762/ps-1440-z-pro-sq-arcit18.jpg",
         tags: ["JavaScript", "Python", "Solidity", "TypeScript"],
         category: "machine learning",
-        github: "https://github.com/Alpha-Stark/DataFort",
+        github: "https://github.com/hardi-virani/DataFort",
         webapp: "https://datafort-1761ff.spheron.app/",
         member: [
             {
@@ -311,7 +311,7 @@ export const projects = [
         image: "https://alpha-stark.github.io/images/Promptopia.png",
         tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "Tailwind CSS"],
         category: "web app",
-        github: "https://github.com/Alpha-Stark/Promptopia",
+        github: "https://github.com/hardi-virani/Promptopia",
         webapp: "https://alpha-promptopia.vercel.app/",
     },
     {
@@ -322,7 +322,7 @@ export const projects = [
         image: "https://alpha-stark.github.io/images/YelpCamp.png",
         tags: ["MongoDb", "Node Js", "Express Js", "Tailwind CSS"],
         category: "web app",
-        github: "https://github.com/Alpha-Stark/YelpCamp",
+        github: "https://github.com/hardi-virani/YelpCamp",
         // webapp: "",
     },
     {
