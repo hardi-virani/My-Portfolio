@@ -4,7 +4,7 @@ export const Bio = {
     roles: ["Full Stack Developer.", "Programmer.", "Competitive Coder"],
     description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/hardi-virani",
-    resume: "https://drive.google.com/drive/folders/10qbqRSXh9dGMw09M6Oqi7GDH0qSJexUV",
+    resume: "https://drive.google.com/file/d/1O2exkkHcCmrnGSkMs81-P6A8XTc88Y09/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/hardi-virani/",
     // twitter: "",
     // insta: "",
