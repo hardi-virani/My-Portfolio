@@ -224,7 +224,7 @@ export const education = [
     // },
     {
         id: 1,
-        img: "https://storage.googleapis.com/ezap-prod/colleges/335/pp-savani-university-logo.jpeg",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTheS19i_Tmo50UvYq5qOzBDCfovEDTGuNw&s",
         school: "P P Savani University, Surat",
         date: "September 2020 - May 2024",
         grade: "7.98 CGPA (~3.35 GPA)",
