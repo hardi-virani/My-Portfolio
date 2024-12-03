@@ -226,7 +226,7 @@ export const education = [
         id: 1,
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaGvqQhqWdx31K9q6qqMnIbqDdhg264ZYe_w&s",
         school: "Northeastern University, Boston",
-        date: "January 2025 - May 2025",
+        date: "January 2025 - May 2027",
         // grade: "7.98 CGPA (~3.35 GPA)",
         desc: "I am an Upcoming Computer Software Engineering Master's Student at Northeastern University.",
         degree: "Master of Science in Computer Software Engineering",
