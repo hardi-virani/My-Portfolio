@@ -259,15 +259,14 @@ export const education = [
         degree: "GSEB(X), Science with Computer",
     },
 ];
-
 export const projects = [
     {
         id: 0,
         title: "ThrifHive",
         date: "Feb 2025 - Apr 2025",
         description: "ThriftHive is a student-first housing platform offering affordable, flexible, and verified rentals near campus — solving safety, budget, and lease-term challenges faced by students.",
-        image: "/images/ThriftHive.png",
-        tags: ["Java", "Screen Builder", "JavaFX", "JavaFX CSS"],
+        image: "https://raw.githubusercontent.com/hardi-virani/Images_Porfolio/refs/heads/main/ThriftHive_Horizontal.png",
+        tags: ["Java", "Scene Builder", "JavaFX", "JavaFX CSS"],
         category: "web app",
         github: "https://github.com/hardi-virani/JavaFX",
         // webapp: "https://alpha-evently.vercel.app/",
@@ -277,12 +276,6 @@ export const projects = [
                 img: "https://alpha-stark.github.io/images/Hardi1a.jpg",
                 linkedin: "https://www.linkedin.com/in/hardi-virani/",
                 github: "https://github.com/hardi-virani",
-            },
-            {
-                name: "Mann Savani",
-                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
-                linkedin: "https://www.linkedin.com/in/mann-savani/",
-                github: "https://github.com/Alpha-Stark",
             },
         ],
     },
