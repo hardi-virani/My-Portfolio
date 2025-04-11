@@ -119,12 +119,12 @@ export const skills = [
         title: "Programming Languages",
         skills: [
             {
-                name: "C/C++",
-                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
-            },
-            {
                 name: "Java",
                 image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+            },
+            {
+                name: "C/C++",
+                image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
             },
             {
                 name: "Python",
@@ -193,10 +193,10 @@ export const experiences = [
     {
         id: 3,
         img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-        role: "Web Tech Lead",
+        role: "Tech Lead",
         company: "GDSC PPSU",
         date: "February 2023 - August 2023",
-        desc: "As the Web Tech Lead at the Google Developers Student Club (GDSC), I've had the privilege of mentoring over 900 enthusiastic students and engaging in exciting projects. Working alongside talented developers sharing same passion for technology has been truly fulfilling. Through my involvement with GDSC, I have also had the opportunity to host 8+ Tech events, including Hackathons, Study Jams, and Workshops. ",
+        desc: "As the Tech Lead at the Google Developers Student Club (GDSC), I've had the privilege of mentoring over 900 enthusiastic students and engaging in exciting projects. Working alongside talented developers sharing same passion for technology has been truly fulfilling. Through my involvement with GDSC, I have also had the opportunity to host 8+ Tech events, including Hackathons, Study Jams, and Workshops. ",
         skills: ["Leadership", "Team Management", "Project Planning and Management", "Public Speaking", "Problem-Solving", "Event Planning and Coordination", "Marketing and Promotion"],
     },
     /* {
@@ -228,7 +228,7 @@ export const education = [
         school: "Northeastern University, Boston",
         date: "January 2025 - May 2027",
         // grade: "7.98 CGPA (~3.35 GPA)",
-        desc: "I am an Upcoming Computer Software Engineering Master's Student at Northeastern University.",
+        desc: "I am an Computer Software Engineering Master's Student at Northeastern University.",
         degree: "Master of Science in Computer Software Engineering",
     },
     {
@@ -263,8 +263,33 @@ export const education = [
 export const projects = [
     {
         id: 0,
+        title: "ThrifHive",
+        date: "Feb 2025 - Apr 2025",
+        description: "ThriftHive is a student-first housing platform offering affordable, flexible, and verified rentals near campus — solving safety, budget, and lease-term challenges faced by students.",
+        image: "/images/ThriftHive.png",
+        tags: ["Java", "Screen Builder", "JavaFX", "JavaFX CSS"],
+        category: "web app",
+        github: "https://github.com/hardi-virani/JavaFX",
+        // webapp: "https://alpha-evently.vercel.app/",
+        member: [
+            {
+                name: "Hardi Virani",
+                img: "https://alpha-stark.github.io/images/Hardi1a.jpg",
+                linkedin: "https://www.linkedin.com/in/hardi-virani/",
+                github: "https://github.com/hardi-virani",
+            },
+            {
+                name: "Mann Savani",
+                img: "https://alpha-stark.github.io/images/MannSavani.jpg",
+                linkedin: "https://www.linkedin.com/in/mann-savani/",
+                github: "https://github.com/Alpha-Stark",
+            },
+        ],
+    },
+    {
+        id: 1,
         title: "Evently",
-        date: "Dec 2023 - March 2024",
+        date: "Dec 2023 - Mar 2024",
         description: "Evently is a comprehensive, full-stack events management platform built on Next.js 14, featuring seamless payment processing through Stripe, user authentication with Clerk, and robust functionalities for creating, reading, updating, and deleting events, ultimately providing users with a dynamic and engaging event experience.",
         image: "https://alpha-stark.github.io/images/Evently.png",
         tags: ["Next Js", "React Js", "MongoDb", "Node Js", "Express Js", "Stripe", "Tailwind CSS"],
@@ -287,7 +312,7 @@ export const projects = [
         ],
     },
     {
-        id: 1,
+        id: 2,
         title: "Data Fort",
         date: "Aug 2023",
         description: "Aims to detect crop disease via drone images throught ML Model, supported by blockchain for photo storage and Ethereum Smart Contracts for decentralization.",
@@ -313,7 +338,7 @@ export const projects = [
         ],
     },
     {
-        id: 2,
+        id: 3,
         title: "Promptopia",
         date: "Nov 2023 - Dec 2023",
         description: "Promptopia serves as an open-source prompting tool, enabling users to discover, craft, and share creative prompts effortlessly.",
@@ -335,7 +360,7 @@ export const projects = [
         // webapp: "",
     },
     {
-        id: 3,
+        id: 5,
         title: "Hcode",
         date: "Oct 2022 - Nov 2022",
         description: "Contests listing platform for students to participate in coding contests and improve their coding skills. Users can view upcoming contests, register for contests, and view their registered contests.",
