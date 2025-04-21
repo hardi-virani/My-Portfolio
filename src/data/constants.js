@@ -265,7 +265,7 @@ export const projects = [
         title: "ThrifHive",
         date: "Feb 2025 - Apr 2025",
         description: "ThriftHive is a student-first housing platform offering affordable, flexible, and verified rentals near campus — solving safety, budget, and lease-term challenges faced by students.",
-        image: "https://raw.githubusercontent.com/hardi-virani/Images_Porfolio/refs/heads/main/ThriftHive_Horizontal.png?token=GHSAT0AAAAAAC4XNBFU5FOQXD2BJFI5QZWG2AGSTTQ",
+        image: "https://github.com/hardi-virani/Images_Porfolio/blob/main/ThriftHive_Horizontal.png?raw=true",
         tags: ["Java", "Scene Builder", "JavaFX", "JavaFX CSS"],
         category: "web app",
         github: "https://github.com/hardi-virani/ThriftHive_JavaFX",
