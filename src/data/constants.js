@@ -268,7 +268,7 @@ export const projects = [
         image: "https://raw.githubusercontent.com/hardi-virani/Images_Porfolio/refs/heads/main/ThriftHive_Horizontal.png?token=GHSAT0AAAAAAC4XNBFU5FOQXD2BJFI5QZWG2AGSTTQ",
         tags: ["Java", "Scene Builder", "JavaFX", "JavaFX CSS"],
         category: "web app",
-        github: "https://github.com/hardi-virani/JavaFX",
+        github: "https://github.com/hardi-virani/ThriftHive_JavaFX",
         // webapp: "https://alpha-evently.vercel.app/",
         member: [
             {
